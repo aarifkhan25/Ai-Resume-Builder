@@ -5,7 +5,9 @@ import { defineConfig } from "vite"
 
 // https://vite.dev/config/
 export default defineConfig({
+'base':'/Ai-Resume-Builder',
   plugins: [react(), tailwindcss()],
+  
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
