@@ -1,4 +1,4 @@
-import{r as t,u as C,j as e,B as g,L as j,t as y}from"./index-CdO4fxLZ.js";import{T as k}from"./textarea-O2JM7dfv.js";import{B as R,G as F}from"./index-DCZihCB9.js";const I=`
+import{r as t,u as C,j as e,B as g,L as j,t as y}from"./index-DQkTnV9w.js";import{T as k}from"./textarea-DF0CLVp8.js";import{B as R,G as F}from"./index-sCzw0W4e.js";const I=`
 Role: Act as a professional Resume Writer and Career Consultant.
 Task: Generate professional resume summaries for the Job Title:{job Title} .
 Requirements:
